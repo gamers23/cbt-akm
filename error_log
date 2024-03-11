@@ -1,0 +1,98 @@
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 23
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 24
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 25
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 26
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 10
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 11
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 12
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:41 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 9
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 10
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 11
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 12
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 17
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 33
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 34
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 46
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 54
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 57
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 72
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 73
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 148
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 149
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 10
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 11
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 12
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 277
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 278
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 280
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 282
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 283
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 287
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 287
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 23
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 24
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 25
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 26
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 10
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 11
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 12
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 9
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 10
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 11
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 12
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 17
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 33
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 34
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 46
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 54
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 57
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 72
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 73
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 148
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 149
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 10
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 11
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 12
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 277
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 278
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 280
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 282
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 283
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 287
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/konfirm.php on line 287
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 23
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 24
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 25
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 26
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 10
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 11
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 12
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:16:59 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 23
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 24
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 25
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/login.php on line 26
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 10
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 11
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 12
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:17:27 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/config/ws.php on line 13
+[20-Jun-2023 13:24:26 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/stihsuna/ujikom.beesmart.my.id/simpan.php on line 40
+[20-Jun-2023 13:24:30 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/stihsuna/ujikom.beesmart.my.id/simpan.php on line 40
+[20-Jun-2023 13:24:32 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/stihsuna/ujikom.beesmart.my.id/simpan.php on line 40
+[20-Jun-2023 13:24:36 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/stihsuna/ujikom.beesmart.my.id/simpan.php on line 40
+[20-Jul-2023 20:22:23 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/stihsuna/ujikom.beesmart.my.id/ws.php on line 3
+[20-Jul-2023 20:22:23 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/stihsuna/ujikom.beesmart.my.id/ws.php on line 3
+[20-Jul-2023 20:22:23 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/stihsuna/ujikom.beesmart.my.id/ws.php on line 3
+[20-Jul-2023 20:22:25 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/stihsuna/ujikom.beesmart.my.id/ws.php on line 3
+[20-Jul-2023 20:22:25 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/stihsuna/ujikom.beesmart.my.id/ws.php on line 3
+[20-Jul-2023 20:22:25 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/stihsuna/ujikom.beesmart.my.id/ws.php on line 3

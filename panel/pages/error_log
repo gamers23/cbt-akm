@@ -1,0 +1,14 @@
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 5
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 6
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 7
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 8
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 9
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: log in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 10
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: zo in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 13
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: zo in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 13
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 33
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 33
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 36
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/index.php on line 55
+[20-Jun-2023 13:17:14 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/login.php on line 51
+[20-Jun-2023 13:18:37 Asia/Jakarta] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/stihsuna/ujikom.beesmart.my.id/panel/pages/login.php on line 51
